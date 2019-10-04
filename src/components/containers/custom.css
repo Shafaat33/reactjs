@@ -1,0 +1,12 @@
+.formStyle {
+    margin: 20px;
+    border-radius: 4px;
+}
+.btnStyle {
+    margin: 10px;
+}
+.r_padding {
+    padding: 5px;
+    background-color: grey;
+    margin-top: 15px;
+}
